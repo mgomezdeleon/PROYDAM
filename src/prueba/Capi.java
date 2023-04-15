@@ -24,6 +24,7 @@ public class Capi {
 	            System.out.println("Es capicúa");
 	    }else{
 	            System.out.println("No es capicúa");
+	            System.out.println("Hay q corregirlo");
 	    }
   }
 }
